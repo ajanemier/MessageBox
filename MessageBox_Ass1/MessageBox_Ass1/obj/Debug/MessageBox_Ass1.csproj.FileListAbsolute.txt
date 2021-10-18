@@ -1,0 +1,10 @@
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\obj\Debug\MessageBox_Ass1.csproj.AssemblyReference.cache
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\obj\Debug\MessageBox_Ass1.Form1.resources
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\obj\Debug\MessageBox_Ass1.Properties.Resources.resources
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\obj\Debug\MessageBox_Ass1.csproj.GenerateResource.cache
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\obj\Debug\MessageBox_Ass1.csproj.CoreCompileInputs.cache
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\bin\Debug\MessageBox_Ass1.exe.config
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\bin\Debug\MessageBox_Ass1.exe
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\bin\Debug\MessageBox_Ass1.pdb
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\obj\Debug\MessageBox_Ass1.exe
+C:\Users\63976\source\repos\MessageBox_Ass1\MessageBox_Ass1\obj\Debug\MessageBox_Ass1.pdb
